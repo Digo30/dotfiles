@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rocsdesigner@gmail.com
+	name = rocsdesigner@gmail.com
